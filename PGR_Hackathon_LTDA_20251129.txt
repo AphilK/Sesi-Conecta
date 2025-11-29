@@ -1,0 +1,81 @@
+
+PROGRAMA DE GERENCIAMENTO DE RISCOS - PGR
+============================================================
+
+Empresa: Indústria Metalúrgica Hackathon LTDA
+CNPJ: 12.345.678/0001-99
+Data de Elaboração: 29/11/2025
+Validade: 29/11/2027 (24 meses)
+
+============================================================
+
+1. IDENTIFICAÇÃO DOS PERIGOS
+------------------------------------------------------------
+
+✓ Ruído ocupacional (Setor: Produção)
+  - Nível médio: 85 dB(A)
+  - Exposição: 8 horas/dia
+
+✓ Riscos mecânicos (Máquinas e equipamentos)
+  - Prensas, serras, tornos
+  - Pontos de prensagem e corte
+
+✓ Agentes químicos (Soldagem e pintura)
+  - Fumos metálicos
+  - Solventes e tintas
+
+✓ Ergonômicos (Levantamento de cargas)
+  - Movimentação manual de cargas até 25kg
+  - Posturas inadequadas
+
+============================================================
+
+2. AVALIAÇÃO DE RISCOS
+------------------------------------------------------------
+
+Risco             | Probabilidade | Severidade | Nível
+────────────────────────────────────────────────────────────
+Ruído             | Alta          | Média      | MÉDIO
+Mecânico          | Média         | Alta       | ALTO
+Químico           | Média         | Média      | MÉDIO
+Ergonômico        | Alta          | Baixa      | BAIXO
+
+============================================================
+
+3. MEDIDAS DE CONTROLE RECOMENDADAS
+------------------------------------------------------------
+
+→ Fornecimento de EPIs:
+  • Protetor auricular tipo concha
+  • Luvas de segurança específicas
+  • Óculos de proteção
+  • Máscaras respiratórias
+
+→ Treinamentos obrigatórios:
+  • NR-12 (Segurança em máquinas)
+  • NR-06 (Uso correto de EPIs)
+  • NR-17 (Ergonomia)
+
+→ Adequações técnicas:
+  • Manutenção preventiva de equipamentos
+  • Enclausuramento de fontes de ruído
+  • Ventilação local exaustora
+  • Ajuste ergonômico de estações de trabalho
+
+============================================================
+
+4. CRONOGRAMA DE IMPLEMENTAÇÃO
+------------------------------------------------------------
+
+Mês 1-2:  Aquisição e distribuição de EPIs
+Mês 2-3:  Realização de treinamentos
+Mês 3-6:  Adequações de engenharia
+Contínuo: Monitoramento e avaliações periódicas
+
+============================================================
+
+Documento elaborado por:
+Eng. de Segurança do Trabalho SESI
+CREA 12345/SP
+
+Este documento foi gerado automaticamente pelo sistema SESI Conecta.
