@@ -6,3 +6,4 @@ Pillow
 qrcode[pil]
 google-generativeai
 reportlab
+openpyxl
